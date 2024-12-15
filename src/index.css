@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: 'Inter', sans-serif; /* Modern font */
+  background-color: #000000; /* Deep black background */
+  color: white; /* Default text color to white */
+}
+
+h1 {
+  font-family: 'Roboto', sans-serif; /* Heading font */
+}
+
+button {
+  transition: all 0.3s ease-in-out;
+}
